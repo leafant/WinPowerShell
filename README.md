@@ -1,2 +1,2 @@
 # WinPowerShell
-# This repository contains usefully window powershell
+# This repository contains useful window powershell
